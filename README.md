@@ -14,5 +14,3 @@ Pre-final Year BTech Student at NIT Durgapur | Competitive Programmer | Web Deve
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
